@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+git+https://github.com/openai/CLIP.git
+gradio
+kagglehub
+scikit-learn
+matplotlib
+pillow
