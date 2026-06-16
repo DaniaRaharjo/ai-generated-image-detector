@@ -232,22 +232,3 @@ Some file paths are configured for Google Drive storage and may need to be modif
 ```
 
 ---
-
-## Repository Structure
-
-```text
-.
-├── AI_Image_Detector.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
-## Future Work
-
-- Evaluate on additional AI-image datasets
-- Improve confidence calibration
-
----
