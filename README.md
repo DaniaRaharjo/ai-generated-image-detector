@@ -184,6 +184,11 @@ The model was tested on a small set of external images outside the CIFAKE datase
 
 Results showed successful detection of AI-generated images; however, real-world photographs were incorrectly classified as AI-generated. This suggests that while the model performs strongly on the CIFAKE benchmark, further evaluation on diverse real-world datasets is required to assess generalization performance.
 
+### Gradio Interface
+
+![Gradio Interface](images/gradio.png)
+
+
 ---
 
 ## Installation
@@ -242,22 +247,7 @@ Some file paths are configured for Google Drive storage and may need to be modif
 
 ## Future Work
 
-- Compare against standalone CvT
-- Compare against standalone CLIP
 - Evaluate on additional AI-image datasets
-- Experiment with larger vision-language models
-- Apply knowledge distillation for lightweight deployment
 - Improve confidence calibration
 
 ---
-
-## Author
-
-Dania Raharjo
-
-Computer Science Undergraduate
-
-Research Area:
-- Computer Vision
-- Deep Learning
-- AI-Generated Content Detection
